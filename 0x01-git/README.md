@@ -1,1 +1,1 @@
-My first readme
+this project is all about determiation and all
